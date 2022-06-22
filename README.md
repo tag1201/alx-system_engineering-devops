@@ -1,1 +1,1 @@
-task two is hard
+Ted is great
