@@ -1,6 +1,1 @@
-script that creates alias
-cat README.md
-clear
-
-exit
-cd ..
+shell variable expansions file
